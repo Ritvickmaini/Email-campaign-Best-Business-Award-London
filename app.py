@@ -77,7 +77,6 @@ def generate_email_html(
                   Regards<br/>
                   Customer Success Team<br/>
                   Best Business Award London</br>
-                  (+44) 2034517166<br/>
                   3–4 March 2026 | London Olympia<br/>
                   <br/>
                   On Behalf of<br/>
