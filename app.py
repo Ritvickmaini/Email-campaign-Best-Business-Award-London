@@ -76,7 +76,7 @@ def generate_email_html(
                 <p style="margin-top:25px;font-weight:bold">
                   Regards<br/>
                   Customer Success Team<br/>
-                  Best Business Awards</br>
+                  Best British Business Awards</br>
                   3–4 March 2026 | London Olympia<br/>
                   <br/>
                   On Behalf of<br/>
